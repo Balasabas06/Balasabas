@@ -1,0 +1,50 @@
+.a{
+	margin-left: auto;
+	margin-right: auto;
+	border:2px solid black;
+	width:300;
+	background-image:url(722327.jpg);
+	height:600;
+	background-size: cover;
+}
+
+span.login{
+margin-left:100;
+margin-top:15;
+}
+.register{
+
+border:none;
+height:50;
+width:150;
+background-color: #6ddeb6;
+border-radius:50px;
+}
+input[type=text]{
+text-align:center;
+border:none;
+height:30;
+width:250;
+background-color: white grey;
+}
+input[type=password]{
+text-align:center;
+border:none;
+height:30;
+width:250;
+background-color: white grey;
+
+}
+.reg1{
+border:none;
+height:30;
+width:100 ;
+background-color: white grey;
+}
+.divisoria{
+width:230;
+background-color:white;
+border:2px solid black;
+border:none;
+border-radius:40px;
+}
